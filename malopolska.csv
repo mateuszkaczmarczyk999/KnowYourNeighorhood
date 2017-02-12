@@ -1,0 +1,302 @@
+woj,pow,gmi,rgmi,nazwa,typ
+12,,,,MAŁOPOLSKIE,województwo
+12,1,,,bocheński,powiat
+12,1,1,1,Bochnia,gmina miejska
+12,1,2,2,Bochnia,gmina wiejska
+12,1,3,2,Drwinia,gmina wiejska
+12,1,4,2,Lipnica Murowana,gmina wiejska
+12,1,5,2,Łapanów,gmina wiejska
+12,1,6,3,Nowy Wiśnicz,gmina miejsko-wiejska
+12,1,6,4,Nowy Wiśnicz,miasto
+12,1,6,5,Nowy Wiśnicz,obszar wiejski
+12,1,7,2,Rzezawa,gmina wiejska
+12,1,8,2,Trzciana,gmina wiejska
+12,1,9,2,Żegocina,gmina wiejska
+12,2,,,brzeski,powiat
+12,2,1,2,Borzęcin,gmina wiejska
+12,2,2,3,Brzesko,gmina miejsko-wiejska
+12,2,2,4,Brzesko,miasto
+12,2,2,5,Brzesko,obszar wiejski
+12,2,3,3,Czchów,gmina miejsko-wiejska
+12,2,3,4,Czchów,miasto
+12,2,3,5,Czchów,obszar wiejski
+12,2,4,2,Dębno,gmina wiejska
+12,2,5,2,Gnojnik,gmina wiejska
+12,2,6,2,Iwkowa,gmina wiejska
+12,2,7,2,Szczurowa,gmina wiejska
+12,3,,,chrzanowski,powiat
+12,3,1,3,Alwernia,gmina miejsko-wiejska
+12,3,1,4,Alwernia,miasto
+12,3,1,5,Alwernia,obszar wiejski
+12,3,2,2,Babice,gmina wiejska
+12,3,3,3,Chrzanów,gmina miejsko-wiejska
+12,3,3,4,Chrzanów,miasto
+12,3,3,5,Chrzanów,obszar wiejski
+12,3,4,3,Libiąż,gmina miejsko-wiejska
+12,3,4,4,Libiąż,miasto
+12,3,4,5,Libiąż,obszar wiejski
+12,3,5,3,Trzebinia,gmina miejsko-wiejska
+12,3,5,4,Trzebinia,miasto
+12,3,5,5,Trzebinia,obszar wiejski
+12,4,,,dąbrowski,powiat
+12,4,1,2,Bolesław,gmina wiejska
+12,4,2,3,Dąbrowa Tarnowska,gmina miejsko-wiejska
+12,4,2,4,Dąbrowa Tarnowska,miasto
+12,4,2,5,Dąbrowa Tarnowska,obszar wiejski
+12,4,3,2,Gręboszów,gmina wiejska
+12,4,4,2,Mędrzechów,gmina wiejska
+12,4,5,2,Olesno,gmina wiejska
+12,4,6,2,Radgoszcz,gmina wiejska
+12,4,7,3,Szczucin,gmina miejsko-wiejska
+12,4,7,4,Szczucin,miasto
+12,4,7,5,Szczucin,obszar wiejski
+12,5,,,gorlicki,powiat
+12,5,1,1,Gorlice,gmina miejska
+12,5,2,3,Biecz,gmina miejsko-wiejska
+12,5,2,4,Biecz,miasto
+12,5,2,5,Biecz,obszar wiejski
+12,5,3,3,Bobowa,gmina miejsko-wiejska
+12,5,3,4,Bobowa,miasto
+12,5,3,5,Bobowa,obszar wiejski
+12,5,4,2,Gorlice,gmina wiejska
+12,5,5,2,Lipinki,gmina wiejska
+12,5,6,2,Łużna,gmina wiejska
+12,5,7,2,Moszczenica,gmina wiejska
+12,5,8,2,Ropa,gmina wiejska
+12,5,9,2,Sękowa,gmina wiejska
+12,5,10,2,Uście Gorlickie,gmina wiejska
+12,6,,,krakowski,powiat
+12,6,1,2,Czernichów,gmina wiejska
+12,6,2,2,Igołomia-Wawrzeńczyce,gmina wiejska
+12,6,3,2,Iwanowice,gmina wiejska
+12,6,4,2,Jerzmanowice-Przeginia,gmina wiejska
+12,6,5,2,Kocmyrzów-Luborzyca,gmina wiejska
+12,6,6,3,Krzeszowice,gmina miejsko-wiejska
+12,6,6,4,Krzeszowice,miasto
+12,6,6,5,Krzeszowice,obszar wiejski
+12,6,7,2,Liszki,gmina wiejska
+12,6,8,2,Michałowice,gmina wiejska
+12,6,9,2,Mogilany,gmina wiejska
+12,6,10,3,Skała,gmina miejsko-wiejska
+12,6,10,4,Skała,miasto
+12,6,10,5,Skała,obszar wiejski
+12,6,11,3,Skawina,gmina miejsko-wiejska
+12,6,11,4,Skawina,miasto
+12,6,11,5,Skawina,obszar wiejski
+12,6,12,3,Słomniki,gmina miejsko-wiejska
+12,6,12,4,Słomniki,miasto
+12,6,12,5,Słomniki,obszar wiejski
+12,6,13,2,Sułoszowa,gmina wiejska
+12,6,14,3,Świątniki Górne,gmina miejsko-wiejska
+12,6,14,4,Świątniki Górne,miasto
+12,6,14,5,Świątniki Górne,obszar wiejski
+12,6,15,2,Wielka Wieś,gmina wiejska
+12,6,16,2,Zabierzów,gmina wiejska
+12,6,17,2,Zielonki,gmina wiejska
+12,7,,,limanowski,powiat
+12,7,1,1,Limanowa,gmina miejska
+12,7,2,1,Mszana Dolna,gmina miejska
+12,7,3,2,Dobra,gmina wiejska
+12,7,4,2,Jodłownik,gmina wiejska
+12,7,5,2,Kamienica,gmina wiejska
+12,7,6,2,Laskowa,gmina wiejska
+12,7,7,2,Limanowa,gmina wiejska
+12,7,8,2,Łukowica,gmina wiejska
+12,7,9,2,Mszana Dolna,gmina wiejska
+12,7,10,2,Niedźwiedź,gmina wiejska
+12,7,11,2,Słopnice,gmina wiejska
+12,7,12,2,Tymbark,gmina wiejska
+12,8,,,miechowski,powiat
+12,8,1,2,Charsznica,gmina wiejska
+12,8,2,2,Gołcza,gmina wiejska
+12,8,3,2,Kozłów,gmina wiejska
+12,8,4,2,Książ Wielki,gmina wiejska
+12,8,5,3,Miechów,gmina miejsko-wiejska
+12,8,5,4,Miechów,miasto
+12,8,5,5,Miechów,obszar wiejski
+12,8,6,2,Racławice,gmina wiejska
+12,8,7,2,Słaboszów,gmina wiejska
+12,9,,,myślenicki,powiat
+12,9,1,3,Dobczyce,gmina miejsko-wiejska
+12,9,1,4,Dobczyce,miasto
+12,9,1,5,Dobczyce,obszar wiejski
+12,9,2,2,Lubień,gmina wiejska
+12,9,3,3,Myślenice,gmina miejsko-wiejska
+12,9,3,4,Myślenice,miasto
+12,9,3,5,Myślenice,obszar wiejski
+12,9,4,2,Pcim,gmina wiejska
+12,9,5,2,Raciechowice,gmina wiejska
+12,9,6,2,Siepraw,gmina wiejska
+12,9,7,3,Sułkowice,gmina miejsko-wiejska
+12,9,7,4,Sułkowice,miasto
+12,9,7,5,Sułkowice,obszar wiejski
+12,9,8,2,Tokarnia,gmina wiejska
+12,9,9,2,Wiśniowa,gmina wiejska
+12,10,,,nowosądecki,powiat
+12,10,1,1,Grybów,gmina miejska
+12,10,2,2,Chełmiec,gmina wiejska
+12,10,3,2,Gródek nad Dunajcem,gmina wiejska
+12,10,4,2,Grybów,gmina wiejska
+12,10,5,2,Kamionka Wielka,gmina wiejska
+12,10,6,2,Korzenna,gmina wiejska
+12,10,7,3,Krynica-Zdrój,gmina miejsko-wiejska
+12,10,7,4,Krynica-Zdrój,miasto
+12,10,7,5,Krynica-Zdrój,obszar wiejski
+12,10,8,2,Łabowa,gmina wiejska
+12,10,9,2,Łącko,gmina wiejska
+12,10,10,2,Łososina Dolna,gmina wiejska
+12,10,11,3,Muszyna,gmina miejsko-wiejska
+12,10,11,4,Muszyna,miasto
+12,10,11,5,Muszyna,obszar wiejski
+12,10,12,2,Nawojowa,gmina wiejska
+12,10,13,3,Piwniczna-Zdrój,gmina miejsko-wiejska
+12,10,13,4,Piwniczna-Zdrój,miasto
+12,10,13,5,Piwniczna-Zdrój,obszar wiejski
+12,10,14,2,Podegrodzie,gmina wiejska
+12,10,15,2,Rytro,gmina wiejska
+12,10,16,3,Stary Sącz,gmina miejsko-wiejska
+12,10,16,4,Stary Sącz,miasto
+12,10,16,5,Stary Sącz,obszar wiejski
+12,11,,,nowotarski,powiat
+12,11,1,1,Nowy Targ,gmina miejska
+12,11,2,3,Szczawnica,gmina miejsko-wiejska
+12,11,2,4,Szczawnica,miasto
+12,11,2,5,Szczawnica,obszar wiejski
+12,11,3,2,Czarny Dunajec,gmina wiejska
+12,11,4,2,Czorsztyn,gmina wiejska
+12,11,5,2,Jabłonka,gmina wiejska
+12,11,6,2,Krościenko nad Dunajcem,gmina wiejska
+12,11,7,2,Lipnica Wielka,gmina wiejska
+12,11,8,2,Łapsze Niżne,gmina wiejska
+12,11,9,2,Nowy Targ,gmina wiejska
+12,11,10,2,Ochotnica Dolna,gmina wiejska
+12,11,11,2,Raba Wyżna,gmina wiejska
+12,11,12,3,Rabka-Zdrój,gmina miejsko-wiejska
+12,11,12,4,Rabka-Zdrój,miasto
+12,11,12,5,Rabka-Zdrój,obszar wiejski
+12,11,13,2,Spytkowice,gmina wiejska
+12,11,14,2,Szaflary,gmina wiejska
+12,12,,,olkuski,powiat
+12,12,1,1,Bukowno,gmina miejska
+12,12,3,2,Bolesław,gmina wiejska
+12,12,4,2,Klucze,gmina wiejska
+12,12,5,3,Olkusz,gmina miejsko-wiejska
+12,12,5,4,Olkusz,miasto
+12,12,5,5,Olkusz,obszar wiejski
+12,12,6,2,Trzyciąż,gmina wiejska
+12,12,7,3,Wolbrom,gmina miejsko-wiejska
+12,12,7,4,Wolbrom,miasto
+12,12,7,5,Wolbrom,obszar wiejski
+12,13,,,oświęcimski,powiat
+12,13,1,1,Oświęcim,gmina miejska
+12,13,2,3,Brzeszcze,gmina miejsko-wiejska
+12,13,2,4,Brzeszcze,miasto
+12,13,2,5,Brzeszcze,obszar wiejski
+12,13,3,3,Chełmek,gmina miejsko-wiejska
+12,13,3,4,Chełmek,miasto
+12,13,3,5,Chełmek,obszar wiejski
+12,13,4,3,Kęty,gmina miejsko-wiejska
+12,13,4,4,Kęty,miasto
+12,13,4,5,Kęty,obszar wiejski
+12,13,5,2,Osiek,gmina wiejska
+12,13,6,2,Oświęcim,gmina wiejska
+12,13,7,2,Polanka Wielka,gmina wiejska
+12,13,8,2,Przeciszów,gmina wiejska
+12,13,9,3,Zator,gmina miejsko-wiejska
+12,13,9,4,Zator,miasto
+12,13,9,5,Zator,obszar wiejski
+12,14,,,proszowicki,powiat
+12,14,1,2,Koniusza,gmina wiejska
+12,14,2,2,Koszyce,gmina wiejska
+12,14,3,2,Nowe Brzesko,gmina wiejska
+12,14,4,2,Pałecznica,gmina wiejska
+12,14,5,3,Proszowice,gmina miejsko-wiejska
+12,14,5,4,Proszowice,miasto
+12,14,5,5,Proszowice,obszar wiejski
+12,14,6,2,Radziemice,gmina wiejska
+12,15,,,suski,powiat
+12,15,1,1,Jordanów,gmina miejska
+12,15,2,1,Sucha Beskidzka,gmina miejska
+12,15,3,2,Budzów,gmina wiejska
+12,15,4,2,Bystra-Sidzina,gmina wiejska
+12,15,5,2,Jordanów,gmina wiejska
+12,15,6,3,Maków Podhalański,gmina miejsko-wiejska
+12,15,6,4,Maków Podhalański,miasto
+12,15,6,5,Maków Podhalański,obszar wiejski
+12,15,7,2,Stryszawa,gmina wiejska
+12,15,8,2,Zawoja,gmina wiejska
+12,15,9,2,Zembrzyce,gmina wiejska
+12,16,,,tarnowski,powiat
+12,16,1,3,Ciężkowice,gmina miejsko-wiejska
+12,16,1,4,Ciężkowice,miasto
+12,16,1,5,Ciężkowice,obszar wiejski
+12,16,2,2,Gromnik,gmina wiejska
+12,16,3,2,Lisia Góra,gmina wiejska
+12,16,4,2,Pleśna,gmina wiejska
+12,16,5,3,Radłów,gmina miejsko-wiejska
+12,16,5,4,Radłów,miasto
+12,16,5,5,Radłów,obszar wiejski
+12,16,6,3,Ryglice,gmina miejsko-wiejska
+12,16,6,4,Ryglice,miasto
+12,16,6,5,Ryglice,obszar wiejski
+12,16,7,2,Rzepiennik Strzyżewski,gmina wiejska
+12,16,8,2,Skrzyszów,gmina wiejska
+12,16,9,2,Tarnów,gmina wiejska
+12,16,10,3,Tuchów,gmina miejsko-wiejska
+12,16,10,4,Tuchów,miasto
+12,16,10,5,Tuchów,obszar wiejski
+12,16,11,2,Wierzchosławice,gmina wiejska
+12,16,12,2,Wietrzychowice,gmina wiejska
+12,16,13,3,Wojnicz,gmina miejsko-wiejska
+12,16,13,4,Wojnicz,miasto
+12,16,13,5,Wojnicz,obszar wiejski
+12,16,14,3,Zakliczyn,gmina miejsko-wiejska
+12,16,14,4,Zakliczyn,miasto
+12,16,14,5,Zakliczyn,obszar wiejski
+12,16,15,3,Żabno,gmina miejsko-wiejska
+12,16,15,4,Żabno,miasto
+12,16,15,5,Żabno,obszar wiejski
+12,16,16,2,Szerzyny,gmina wiejska
+12,17,,,tatrzański,powiat
+12,17,1,1,Zakopane,gmina miejska
+12,17,2,2,Biały Dunajec,gmina wiejska
+12,17,3,2,Bukowina Tatrzańska,gmina wiejska
+12,17,4,2,Kościelisko,gmina wiejska
+12,17,5,2,Poronin,gmina wiejska
+12,18,,,wadowicki,powiat
+12,18,1,3,Andrychów,gmina miejsko-wiejska
+12,18,1,4,Andrychów,miasto
+12,18,1,5,Andrychów,obszar wiejski
+12,18,2,2,Brzeźnica,gmina wiejska
+12,18,3,3,Kalwaria Zebrzydowska,gmina miejsko-wiejska
+12,18,3,4,Kalwaria Zebrzydowska,miasto
+12,18,3,5,Kalwaria Zebrzydowska,obszar wiejski
+12,18,4,2,Lanckorona,gmina wiejska
+12,18,5,2,Mucharz,gmina wiejska
+12,18,6,2,Spytkowice,gmina wiejska
+12,18,7,2,Stryszów,gmina wiejska
+12,18,8,2,Tomice,gmina wiejska
+12,18,9,3,Wadowice,gmina miejsko-wiejska
+12,18,9,4,Wadowice,miasto
+12,18,9,5,Wadowice,obszar wiejski
+12,18,10,2,Wieprz,gmina wiejska
+12,19,,,wielicki,powiat
+12,19,1,2,Biskupice,gmina wiejska
+12,19,2,2,Gdów,gmina wiejska
+12,19,3,2,Kłaj,gmina wiejska
+12,19,4,3,Niepołomice,gmina miejsko-wiejska
+12,19,4,4,Niepołomice,miasto
+12,19,4,5,Niepołomice,obszar wiejski
+12,19,5,3,Wieliczka,gmina miejsko-wiejska
+12,19,5,4,Wieliczka,miasto
+12,19,5,5,Wieliczka,obszar wiejski
+12,61,,,Kraków,miasto na prawach powiatu
+12,61,1,1,Kraków,gmina miejska
+12,61,2,9,Kraków-Krowodrza,delegatura
+12,61,3,9,Kraków-Nowa Huta,delegatura
+12,61,4,9,Kraków-Podgórze,delegatura
+12,61,5,9,Kraków-Śródmieście,delegatura
+12,62,,,Nowy Sącz,miasto na prawach powiatu
+12,62,1,1,Nowy Sącz,gmina miejska
+12,63,,,Tarnów,miasto na prawach powiatu
+12,63,1,1,Tarnów,gmina miejska
